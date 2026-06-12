@@ -1,0 +1,76 @@
+{
+  "genres": {
+    "classroom_drama": {
+      "corpus": "brain/classroom_drama/corpus.txt",
+      "vocab": "brain/classroom_drama/vocab.json",
+      "words": 225,
+      "unique_words": 134
+    },
+    "style_guidance": {
+      "corpus": "brain/style_guidance/corpus.txt",
+      "vocab": "brain/style_guidance/vocab.json",
+      "words": 91,
+      "unique_words": 65
+    },
+    "mystery": {
+      "corpus": "brain/mystery/corpus.txt",
+      "vocab": "brain/mystery/vocab.json",
+      "words": 94,
+      "unique_words": 65
+    },
+    "fantasy": {
+      "corpus": "brain/fantasy/corpus.txt",
+      "vocab": "brain/fantasy/vocab.json",
+      "words": 78,
+      "unique_words": 58
+    },
+    "science_fiction": {
+      "corpus": "brain/science_fiction/corpus.txt",
+      "vocab": "brain/science_fiction/vocab.json",
+      "words": 81,
+      "unique_words": 59
+    },
+    "romance": {
+      "corpus": "brain/romance/corpus.txt",
+      "vocab": "brain/romance/vocab.json",
+      "words": 78,
+      "unique_words": 58
+    },
+    "thriller": {
+      "corpus": "brain/thriller/corpus.txt",
+      "vocab": "brain/thriller/vocab.json",
+      "words": 78,
+      "unique_words": 55
+    },
+    "horror": {
+      "corpus": "brain/horror/corpus.txt",
+      "vocab": "brain/horror/vocab.json",
+      "words": 73,
+      "unique_words": 52
+    },
+    "comedy": {
+      "corpus": "brain/comedy/corpus.txt",
+      "vocab": "brain/comedy/vocab.json",
+      "words": 83,
+      "unique_words": 59
+    },
+    "adventure": {
+      "corpus": "brain/adventure/corpus.txt",
+      "vocab": "brain/adventure/vocab.json",
+      "words": 85,
+      "unique_words": 58
+    },
+    "historical": {
+      "corpus": "brain/historical/corpus.txt",
+      "vocab": "brain/historical/vocab.json",
+      "words": 78,
+      "unique_words": 53
+    },
+    "dystopian": {
+      "corpus": "brain/dystopian/corpus.txt",
+      "vocab": "brain/dystopian/vocab.json",
+      "words": 77,
+      "unique_words": 57
+    }
+  }
+}
